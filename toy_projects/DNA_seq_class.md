@@ -1,5 +1,3 @@
-Certainly! Here's the "DNA Sequence Classification using Machine Learning" toy project in Markdown format:
-
 # DNA Sequence Classification using Machine Learning
 
 This project aims to develop a machine learning model that can classify DNA sequences into different categories based on their properties or functions.
